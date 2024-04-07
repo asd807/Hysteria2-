@@ -26,7 +26,7 @@ FinalShell下载：<a href="https://kjfx.lanzoui.com/iqm6Uosbzha" target="_blank
     systemctl status hysteria-server.service   # 查看 hysteria 服务 状态
 
 ### 六、客户端配置
-- Windows 推荐使用**Windows 推荐使用** V2rayN，<a href="https://github.com/2dust/v2rayN/releases/latest" target="_blank">点击下载>></a><br>
+- Windows 建议使用 V2rayN，<a href="https://github.com/2dust/v2rayN/releases/latest" target="_blank">点击下载>></a><br>
 如果你不清楚下载哪个文件，请下载 “zz_v2rayN-With-Core-SelfContained.7z” 解压使用。
 
 - IOS/MAC 建议使用 sing-box 或 Shadowrocket<br>
