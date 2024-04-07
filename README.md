@@ -87,8 +87,8 @@ FinalShell下载：<a href="https://kjfx.lanzoui.com/iqm6Uosbzha" target="_blank
           "tag": "proxy",
           "server": "IP",             // VPS ip
           "server_port": 443,         // 端口
-          "up_mbps": 50,              //上传速率，实际填写，过大会导致流量浪费
-          "down_mbps": 200,           //下载速率，实际填写，过大会导致流量浪费
+          "up_mbps": 20,              //上传速率，实际填写，过大会导致流量浪费
+          "down_mbps": 100,           //下载速率，实际填写，过大会导致流量浪费
           "password": "88888888",   //hysteria2 服务密码
           "tls": {
             "enabled": true,
