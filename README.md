@@ -1,1 +1,1 @@
-# Hysteria2
+# Hysteria 2
