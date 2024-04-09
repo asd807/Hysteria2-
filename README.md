@@ -1,4 +1,4 @@
-# Hysteria 2 Hysteria2一键安装教程，搭建歇斯底里2（windows,安卓,ios,mac）客户端下载，sing-box配置使用教程
+# Hysteria2一键安装教程，搭建歇斯底里2（windows,安卓,ios,mac）客户端下载，sing-box配置使用教程
 Hysteria2一键安装视频教程：▶ https://youtu.be/N6j3gWde8cQ
 
 ### 步骤：
