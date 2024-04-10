@@ -133,3 +133,13 @@ FinalShell下载：<a href="https://kjfx.lanzoui.com/iqm6Uosbzha" target="_blank
       }
     }
 
+
+
+### 八、常见问题
+节点如果不能正常使用，请放行端口，请将以下命令复制到搭建工具，再点回车
+
+    iptables -I INPUT -p tcp --dport 443 -j ACCEPT
+
+*请将 443 改为你节点的端口再使用
+    
+
