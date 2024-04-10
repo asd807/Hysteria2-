@@ -93,7 +93,7 @@ FinalShell下载：<a href="https://kjfx.lanzoui.com/iqm6Uosbzha" target="_blank
           "password": "88888888",   //hysteria2 服务密码
           "tls": {
             "enabled": true,
-            "server_name": "bing.com",
+            "server_name": "www.bing.com",
             "insecure": true              
           }
         },
